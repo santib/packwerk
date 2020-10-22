@@ -15,6 +15,7 @@
 - [ ] Code refactor (non-breaking change that doesn't add functionality)
 - [ ] Breaking change (fix or feature that would cause existing functionality to not work as expected)
 - [ ] This change requires a documentation update
+- [ ] Configuration Change
 
 ### Additional Release Notes
 
